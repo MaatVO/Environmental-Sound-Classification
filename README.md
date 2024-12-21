@@ -48,6 +48,7 @@ The study demonstrates the significance of selecting appropriate input features 
 
 ## Contributors
 - Mattia Varagnolo
+- Giacomo Schiavo
 
 ## License
 [Include license information]
